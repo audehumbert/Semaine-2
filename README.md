@@ -11,7 +11,7 @@ Vous trouverez mes badges *Code Academy*   [**ici**](https://www.codecademy.com/
 
 ![logo codeacademy](http://www.reconversion-developpeur-web.com/wp-content/uploads/2015/09/codeacademy1.png "logo codeacademy")
 
-![logo codeacademy](image/codeacademy.png "logo")    
+![logo codeacademy](https://github.com/audehumbert/semaine-2/blob/master/images/codeacademy.png?raw=true"logo")    
 
 
 
