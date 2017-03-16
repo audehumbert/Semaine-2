@@ -11,7 +11,7 @@ Vous trouverez mes badges *Code Academy*   [**ici**](https://www.codecademy.com/
 
 Ainsi que le travail sur mon CV ! 
 
-![logo bowie](https://github.com/audehumbert/semaine-2/raw/master/images/bowie.jpg"logo bowie")    
+![logo bowie](https://github.com/audehumbert/semaine-2/raw/master/images/bowie.jpg "logo bowie")    
 
 
 =======
